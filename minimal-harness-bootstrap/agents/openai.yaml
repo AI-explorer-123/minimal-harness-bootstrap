@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimal Harness Bootstrap"
+  short_description: "Bootstrap AGENTS docs and smoke tests"
+  default_prompt: "Use $minimal-harness-bootstrap to add AGENTS.md, practical docs, and smoke tests to a repository."
